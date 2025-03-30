@@ -1,0 +1,58 @@
+Hi there....
+
+May I ask what prompted this question? It might help me give you a more
+complete or specific answer....
+
+You are correct in the "plasma universe" model is a pretty non-standard 
+theory of cosmology and has few adherents these days. I would be a little
+careful about the word "fringe", though, since not everyone working
+on this idea is regarded as crazy. Some treat it as a longshot option
+worth checking out.
+
+I will admit that the heyday of this idea was a bit before my time, so
+I'm not extremely familiar with this particular model. How much detail 
+are you willing to get into here? I can point you to some cosmology
+articles on these issues, but they may not be most approachable sources.
+
+The trick with both this model and many of the so-called "alternative
+cosmologies" is that we aren't talking a well-defined model that
+predicts a number X, so if we measure the number and get something other
+than X, we never have to consider the model again. Instead, they are
+more general concepts that can be "tweaked" is various ways to deal with
+different objections.  Of course, at some level the "hot big bang" is
+also in some sense a short-hand for a class of models which predict
+slightly different results depending on the exact parameters you assume.
+
+However, what makes the big bang unique at the moment is that there is
+one set of big bang model parameters that is both qualitatively and
+quantitatively consistent with many of the cosmological
+observations to date. Using the same parameters, you can get 
+a prediction for the redshifts of light from distant galaxies, 
+the structure of the microwave sky, the total mass of clusters, etc.
+Furthermore, with these parameters we can make specific quantitative 
+predictions for what other observations should show and also which
+observations should place tighter constraints on those parameters.
+Thus cosmologists can productively treat the big bang as a "default" 
+model and look for inconsistencies in an effort to disprove it
+or refine it.
+
+By contrast, the plasma universe and other alternative cosmologies are
+mostly playing catch-up. Their advocates saying that they can explain
+the same phenomena as the big bang model, and while they can sometimes
+cook up results that match one observation, they cannot provide a
+coherent quantitative account for the variety of cosmological
+observations that hang together reasonably well in the big bang picture.
+As such, these models usually seem ad-hoc and more importantly, they do
+not readily suggest specific or unique avenues for further research.
+Thus most cosmologists don't see any point in considering these
+alternatives until there is some cosmological data that the big bang
+models cannot cope with.
+
+I'm sorry if this sonds a bit like a dodge, but I'm not sure if you
+want to really here that plasma universe models cannot explain
+the Gunn-Peterson trough in distant quasars, the change in the 
+temperature of the CMB with time measured using distant clusters
+of galaxies, etc. etc. I am perfectly happy to get into these issues
+if you like, however....
+
+mmh

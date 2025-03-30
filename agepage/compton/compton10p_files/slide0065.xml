@@ -1,0 +1,742 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint">
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="75"/>
+ </o:shapelayout><p:shaperange id="_x0000_s76802">
+  <v:oval id="_x0000_s76802" style='position:absolute;left:1in;top:234pt;
+   width:60pt;height:60pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]" strokeweight="1.5pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval></p:shaperange>
+ <p:shaperange id="_x0000_s76803">
+  <v:oval id="_x0000_s76803" style='position:absolute;left:294pt;top:234pt;
+   width:60pt;height:60pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]" strokeweight="1.5pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval></p:shaperange>
+ <p:shaperange id="_x0000_s76804">
+  <v:oval id="_x0000_s76804" style='position:absolute;left:492pt;top:234pt;
+   width:60pt;height:60pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]" strokeweight="1.5pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:line id="_x0000_s76805" style='position:absolute;
+   mso-wrap-style:none;v-text-anchor:middle' from="330pt,234pt" to="437.75pt,264pt"
+   strokecolor="black [1]" strokeweight="1.5pt">
+   <v:shadow color="gray [2]"/>
+  </v:line><v:line id="_x0000_s76806" style='position:absolute;flip:y;
+   mso-wrap-style:none;v-text-anchor:middle' from="330pt,264pt" to="437.75pt,294pt"
+   strokecolor="black [1]" strokeweight="1.5pt">
+   <v:shadow color="gray [2]"/>
+  </v:line><v:shape id="_x0000_s76807" style='position:absolute;left:114pt;
+   top:234pt;width:65.375pt;height:30pt;mso-wrap-style:none;v-text-anchor:middle'
+   coordsize="1008,288" path="m0,0c156,72,312,144,480,192,648,240,920,272,1008,288e"
+   filled="f" fillcolor="#bbe0e3 [4]" strokecolor="black [1]" strokeweight="1.5pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:shape><v:shape id="_x0000_s76808" style='position:absolute;left:108.625pt;
+   top:264pt;width:65.375pt;height:30pt;flip:y;mso-wrap-style:none;
+   v-text-anchor:middle' coordsize="1008,288" path="m0,0c156,72,312,144,480,192,648,240,920,272,1008,288e"
+   filled="f" fillcolor="#bbe0e3 [4]" strokecolor="black [1]" strokeweight="1.5pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:shape><v:shape id="_x0000_s76809" style='position:absolute;left:522pt;
+   top:264pt;width:173.25pt;height:30pt;flip:x;mso-wrap-style:none;
+   v-text-anchor:middle' coordsize="1008,288" path="m0,0c156,72,312,144,480,192,648,240,920,272,1008,288e"
+   filled="f" fillcolor="#bbe0e3 [4]" strokecolor="black [1]" strokeweight="1.5pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:shape><v:shape id="_x0000_s76810" style='position:absolute;left:522pt;
+   top:234pt;width:173.25pt;height:30pt;flip:x y;mso-wrap-style:none;
+   v-text-anchor:middle' coordsize="1008,288" path="m0,0c156,72,312,144,480,192,648,240,920,272,1008,288e"
+   filled="f" fillcolor="#bbe0e3 [4]" strokecolor="black [1]" strokeweight="1.5pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:path arrowok="t"/>
+  </v:shape><v:shapetype id="_x0000_t4" coordsize="21600,21600" o:spt="4"
+   path="m10800,0l0,10800,10800,21600,21600,10800xe">
+   <v:stroke joinstyle="miter"/>
+   <v:path gradientshapeok="t" o:connecttype="rect" textboxrect="5400,5400,16200,16200"/>
+  </v:shapetype><v:shape id="_x0000_s76811" type="#_x0000_t4" style='position:absolute;
+   left:168pt;top:258pt;width:12pt;height:12pt;mso-wrap-style:none;
+   v-text-anchor:middle' fillcolor="#339 [5]" strokecolor="black [1]">
+   <v:shadow color="gray [2]"/>
+  </v:shape><v:shape id="_x0000_s76812" type="#_x0000_t4" style='position:absolute;
+   left:426pt;top:258pt;width:12pt;height:12pt;mso-wrap-style:none;
+   v-text-anchor:middle' fillcolor="#339 [5]" strokecolor="black [1]">
+   <v:shadow color="gray [2]"/>
+  </v:shape><v:shape id="_x0000_s76813" type="#_x0000_t4" style='position:absolute;
+   left:684pt;top:258pt;width:12pt;height:12pt;mso-wrap-style:none;
+   v-text-anchor:middle' fillcolor="#339 [5]" strokecolor="black [1]">
+   <v:shadow color="gray [2]"/>
+  </v:shape><v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202"
+   path="m0,0l0,21600,21600,21600,21600,0xe">
+   <v:stroke joinstyle="miter"/>
+   <v:path gradientshapeok="t" o:connecttype="rect"/>
+  </v:shapetype><v:shape id="_x0000_s76814" type="#_x0000_t202" style='position:absolute;
+   left:15.25pt;top:3.75pt;width:681.25pt;height:31.25pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76815" type="#_x0000_t202" style='position:absolute;
+   left:286.5pt;top:102pt;width:145.5pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76816" type="#_x0000_t202" style='position:absolute;
+   left:4in;top:139.125pt;width:145.5pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76817" type="#_x0000_t202" style='position:absolute;
+   left:44pt;top:138pt;width:137.5pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76818" type="#_x0000_t202" style='position:absolute;
+   left:532pt;top:138pt;width:141.5pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76819" type="#_x0000_t202" style='position:absolute;
+   left:295.5pt;top:176.875pt;width:143.5pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76820" type="#_x0000_t202" style='position:absolute;
+   left:517.5pt;top:175.125pt;width:173.5pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76821" type="#_x0000_t202" style='position:absolute;
+   left:31.5pt;top:175.125pt;width:179.5pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s76822">
+  <v:line id="_x0000_s76822" style='position:absolute;flip:x;mso-wrap-style:none;
+   v-text-anchor:middle' from="54pt,114pt" to="282pt,114pt" strokecolor="black [1]"
+   strokeweight="3pt">
+   <v:stroke endarrow="open"/>
+   <v:shadow color="gray [2]"/>
+  </v:line><v:line id="_x0000_s76823" style='position:absolute;
+   mso-wrap-style:none;v-text-anchor:middle' from="6in,114pt" to="666pt,114pt"
+   strokecolor="black [1]" strokeweight="3pt">
+   <v:stroke endarrow="open"/>
+   <v:shadow color="gray [2]"/>
+  </v:line></p:shaperange>
+ <p:shaperange id="_x0000_s76824">
+  <v:rect id="_x0000_s76824" style='position:absolute;left:18pt;top:174pt;
+   width:3in;height:162pt;mso-wrap-style:none;v-text-anchor:middle' filled="f"
+   fillcolor="#bbe0e3 [4]" strokecolor="#099 [6]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:rect><v:rect id="_x0000_s76825" style='position:absolute;left:252pt;
+   top:174pt;width:3in;height:162pt;mso-wrap-style:none;v-text-anchor:middle'
+   filled="f" fillcolor="#bbe0e3 [4]" strokecolor="gray [2]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:rect><v:rect id="_x0000_s76826" style='position:absolute;left:486pt;
+   top:174pt;width:3in;height:162pt;mso-wrap-style:none;v-text-anchor:middle'
+   filled="f" fillcolor="#bbe0e3 [4]" strokecolor="fuchsia" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:rect><v:shape id="_x0000_s76827" type="#_x0000_t202" style='position:absolute;
+   left:491.5pt;top:302.875pt;width:209.625pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76828" type="#_x0000_t202" style='position:absolute;
+   left:46.5pt;top:300pt;width:151.5pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76829" type="#_x0000_t202" style='position:absolute;
+   left:20.5pt;top:343.125pt;width:213.5pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76830" type="#_x0000_t202" style='position:absolute;
+   left:492pt;top:342pt;width:208.625pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76832" type="#_x0000_t202" style='position:absolute;
+   left:57.5pt;top:474pt;width:122.5pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s76833" type="#_x0000_t202" style='position:absolute;
+   left:528pt;top:474pt;width:125.5pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:oval id="_x0000_s76834" style='position:absolute;left:540pt;
+   top:402pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76835" style='position:absolute;left:552pt;
+   top:402pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76836" style='position:absolute;left:540pt;
+   top:408pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76837" style='position:absolute;left:552pt;
+   top:408pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76838" style='position:absolute;left:540pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76839" style='position:absolute;left:546pt;
+   top:402pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76840" style='position:absolute;left:546pt;
+   top:408pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76841" style='position:absolute;left:546pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76842" style='position:absolute;left:552pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76843" style='position:absolute;left:588pt;
+   top:396pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76844" style='position:absolute;left:588pt;
+   top:378pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76845" style='position:absolute;left:606pt;
+   top:396pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76846" style='position:absolute;left:624pt;
+   top:378pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76847" style='position:absolute;left:588pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76848" style='position:absolute;left:606pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76849" style='position:absolute;left:624pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76850" style='position:absolute;left:606pt;
+   top:378pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76851" style='position:absolute;left:624pt;
+   top:396pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:line id="_x0000_s76852" style='position:absolute;
+   mso-wrap-style:none;v-text-anchor:middle' from="564pt,414pt" to="582pt,414pt"
+   strokecolor="black [1]" strokeweight="1.5pt">
+   <v:stroke endarrow="open"/>
+   <v:shadow color="gray [2]"/>
+  </v:line><v:oval id="_x0000_s76853" style='position:absolute;left:540pt;
+   top:420pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76854" style='position:absolute;left:546pt;
+   top:420pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76855" style='position:absolute;left:552pt;
+   top:420pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76856" style='position:absolute;left:534pt;
+   top:402pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76857" style='position:absolute;left:534pt;
+   top:408pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76858" style='position:absolute;left:534pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76859" style='position:absolute;left:534pt;
+   top:420pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76860" style='position:absolute;left:588pt;
+   top:6in;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76861" style='position:absolute;left:606pt;
+   top:6in;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76862" style='position:absolute;left:624pt;
+   top:6in;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76863" style='position:absolute;left:642pt;
+   top:378pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76864" style='position:absolute;left:642pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76865" style='position:absolute;left:642pt;
+   top:396pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76866" style='position:absolute;left:642pt;
+   top:6in;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76867" style='position:absolute;left:42pt;top:402pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76868" style='position:absolute;left:42pt;top:414pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:line id="_x0000_s76869" style='position:absolute;
+   mso-wrap-style:none;v-text-anchor:middle' from="66pt,414pt" to="2in,414pt"
+   strokecolor="black [1]" strokeweight="1.5pt">
+   <v:stroke endarrow="open"/>
+   <v:shadow color="gray [2]"/>
+  </v:line><v:oval id="_x0000_s76870" style='position:absolute;left:30pt;top:402pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76871" style='position:absolute;left:30pt;top:414pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76872" style='position:absolute;left:282pt;
+   top:408pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76873" style='position:absolute;left:294pt;
+   top:408pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76874" style='position:absolute;left:4in;top:402pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76875" style='position:absolute;left:4in;top:414pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:line id="_x0000_s76876" style='position:absolute;
+   mso-wrap-style:none;v-text-anchor:middle' from="312pt,414pt" to="354pt,414pt"
+   strokecolor="black [1]" strokeweight="1.5pt">
+   <v:stroke endarrow="open"/>
+   <v:shadow color="gray [2]"/>
+  </v:line><v:oval id="_x0000_s76877" style='position:absolute;left:282pt;
+   top:420pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76878" style='position:absolute;left:294pt;
+   top:420pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76879" style='position:absolute;left:276pt;
+   top:402pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76880" style='position:absolute;left:276pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76881" style='position:absolute;left:528pt;
+   top:402pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76882" style='position:absolute;left:528pt;
+   top:408pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76883" style='position:absolute;left:528pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76884" style='position:absolute;left:528pt;
+   top:420pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76885" style='position:absolute;left:540pt;
+   top:426pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76886" style='position:absolute;left:546pt;
+   top:426pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76887" style='position:absolute;left:552pt;
+   top:426pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76888" style='position:absolute;left:534pt;
+   top:426pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76889" style='position:absolute;left:528pt;
+   top:426pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76890" style='position:absolute;left:300pt;
+   top:402pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76891" style='position:absolute;left:300pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76892" style='position:absolute;left:4in;top:426pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76893" style='position:absolute;left:276pt;
+   top:426pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76894" style='position:absolute;left:300pt;
+   top:426pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76895" style='position:absolute;left:54pt;top:402pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76896" style='position:absolute;left:54pt;top:414pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76897" style='position:absolute;left:42pt;top:426pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76898" style='position:absolute;left:30pt;top:426pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76899" style='position:absolute;left:54pt;top:426pt;
+   width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle' fillcolor="#bbe0e3 [4]"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76900" style='position:absolute;left:660pt;
+   top:378pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76901" style='position:absolute;left:660pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76902" style='position:absolute;left:660pt;
+   top:396pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76903" style='position:absolute;left:660pt;
+   top:6in;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76904" style='position:absolute;left:588pt;
+   top:450pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76905" style='position:absolute;left:606pt;
+   top:450pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76906" style='position:absolute;left:624pt;
+   top:450pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76907" style='position:absolute;left:642pt;
+   top:450pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76908" style='position:absolute;left:660pt;
+   top:450pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76909" style='position:absolute;left:366pt;
+   top:378pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76910" style='position:absolute;left:384pt;
+   top:396pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76911" style='position:absolute;left:402pt;
+   top:378pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76912" style='position:absolute;left:366pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76913" style='position:absolute;left:402pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76914" style='position:absolute;left:384pt;
+   top:6in;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76915" style='position:absolute;left:420pt;
+   top:396pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76916" style='position:absolute;left:420pt;
+   top:6in;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76917" style='position:absolute;left:438pt;
+   top:378pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76918" style='position:absolute;left:438pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76919" style='position:absolute;left:366pt;
+   top:450pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76920" style='position:absolute;left:402pt;
+   top:450pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76921" style='position:absolute;left:438pt;
+   top:450pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76922" style='position:absolute;left:150pt;
+   top:378pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76923" style='position:absolute;left:186pt;
+   top:378pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76924" style='position:absolute;left:150pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76925" style='position:absolute;left:186pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76926" style='position:absolute;left:222pt;
+   top:378pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76927" style='position:absolute;left:222pt;
+   top:414pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76928" style='position:absolute;left:150pt;
+   top:450pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76929" style='position:absolute;left:186pt;
+   top:450pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval><v:oval id="_x0000_s76930" style='position:absolute;left:222pt;
+   top:450pt;width:6pt;height:6pt;mso-wrap-style:none;v-text-anchor:middle'
+   fillcolor="#bbe0e3 [4]" strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:oval></p:shaperange>
+ <p:shaperange id="_x0000_s76931">
+  <v:rect id="_x0000_s76931" style='position:absolute;left:18pt;top:342pt;
+   width:3in;height:162pt;mso-wrap-style:none;v-text-anchor:middle' filled="f"
+   fillcolor="#bbe0e3 [4]" strokecolor="#099 [6]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:rect><v:rect id="_x0000_s76932" style='position:absolute;left:252pt;
+   top:342pt;width:3in;height:162pt;mso-wrap-style:none;v-text-anchor:middle'
+   filled="f" fillcolor="#bbe0e3 [4]" strokecolor="gray [2]" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:rect><v:rect id="_x0000_s76933" style='position:absolute;left:486pt;
+   top:342pt;width:3in;height:162pt;mso-wrap-style:none;v-text-anchor:middle'
+   filled="f" fillcolor="#bbe0e3 [4]" strokecolor="fuchsia" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:rect><v:line id="_x0000_s76934" style='position:absolute;
+   mso-wrap-style:none;v-text-anchor:middle' from="108pt,474pt" to="108pt,474pt"
+   strokecolor="black [1]">
+   <v:shadow color="gray [2]"/>
+  </v:line><v:line id="_x0000_s76935" style='position:absolute;flip:x y;
+   mso-wrap-style:none;v-text-anchor:middle' from="108pt,420pt" to="114pt,474pt"
+   strokecolor="black [1]">
+   <v:shadow color="gray [2]"/>
+  </v:line><v:line id="_x0000_s76936" style='position:absolute;flip:x y;
+   mso-wrap-style:none;v-text-anchor:middle' from="570pt,420pt" to="582pt,480pt"
+   strokecolor="black [1]">
+   <v:shadow color="gray [2]"/>
+  </v:line><v:rect id="_x0000_s76937" style='position:absolute;left:240pt;
+   top:138pt;width:240pt;height:378pt;mso-wrap-style:none;v-text-anchor:middle'
+   filled="f" fillcolor="red" strokecolor="red" strokeweight="6pt">
+   <v:shadow color="gray [2]"/>
+  </v:rect><v:shape id="_x0000_s76938" type="#_x0000_t202" style='position:absolute;
+   left:35.5pt;top:55.125pt;width:642.625pt;height:28.875pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#bbe0e3 [4]" stroked="f"
+   strokecolor="black [1]">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s76939">
+  <v:rect id="_x0000_s76939" style='position:absolute;left:30pt;top:48pt;
+   width:654pt;height:42pt;mso-wrap-style:none;v-text-anchor:middle' filled="f"
+   fillcolor="#bbe0e3 [4]" strokecolor="red" strokeweight="3pt">
+   <v:fill color2="white [0]"/>
+   <v:shadow color="gray [2]"/>
+  </v:rect></p:shaperange>
+</xml>

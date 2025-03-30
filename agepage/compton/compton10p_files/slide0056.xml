@@ -1,0 +1,353 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint">
+ <p:slidetransition advancetime="0" flag="1"/>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="66,86"/>
+ </o:shapelayout><p:colorscheme
+  colors="#000000,#FFFFFF,#336699,#E3EBF1,#003399,#468A4B,#66CCFF,#F0E500"/>
+ <p:shaperange id="_x0000_s67586">
+  <v:shapetype id="_x0000_t202" coordsize="21600,21600" o:spt="202" path="m0,0l0,21600,21600,21600,21600,0xe">
+   <v:stroke joinstyle="miter"/>
+   <v:path gradientshapeok="t" o:connecttype="rect"/>
+  </v:shapetype><v:shape id="_x0000_s67586" type="#_x0000_t202" style='position:absolute;
+   left:466.875pt;top:66pt;width:85.125pt;height:36pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#039 [4]" stroked="f"
+   strokecolor="white [1]">
+   <v:fill color2="black [0]"/>
+   <v:shadow color="#369 [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s67587" type="#_x0000_t202" style='position:absolute;
+   left:2in;top:138pt;width:65.25pt;height:36pt;mso-wrap-style:none;
+   v-text-anchor:top-baseline' filled="f" fillcolor="#039 [4]" stroked="f"
+   strokecolor="white [1]">
+   <v:fill color2="black [0]"/>
+   <v:shadow color="#369 [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape><v:shape id="_x0000_s67588" type="#_x0000_t202" style='position:absolute;
+   left:6pt;top:0;width:8in;height:45.625pt' filled="f" fillcolor="#039 [4]"
+   stroked="f" strokecolor="white [1]">
+   <v:fill color2="black [0]"/>
+   <v:shadow color="#369 [2]"/>
+   <v:textbox style='mso-fit-shape-to-text:t'/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67589">
+  <v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75"
+   o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+   <v:stroke joinstyle="miter"/>
+   <v:formulas>
+    <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+    <v:f eqn="sum @0 1 0"/>
+    <v:f eqn="sum 0 0 @1"/>
+    <v:f eqn="prod @2 1 2"/>
+    <v:f eqn="prod @3 21600 pixelWidth"/>
+    <v:f eqn="prod @3 21600 pixelHeight"/>
+    <v:f eqn="sum @0 0 1"/>
+    <v:f eqn="prod @6 1 2"/>
+    <v:f eqn="prod @7 21600 pixelWidth"/>
+    <v:f eqn="sum @8 21600 0"/>
+    <v:f eqn="prod @7 21600 pixelHeight"/>
+    <v:f eqn="sum @10 21600 0"/>
+   </v:formulas>
+   <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+   <o:lock v:ext="edit" aspectratio="t"/>
+  </v:shapetype><v:shape id="_x0000_s67589" type="#_x0000_t75" style='position:absolute;
+   left:651.375pt;top:114pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67590">
+  <v:shape id="_x0000_s67590" type="#_x0000_t75" style='position:absolute;
+   left:654pt;top:192pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67591">
+  <v:shape id="_x0000_s67591" type="#_x0000_t75" style='position:absolute;
+   left:498pt;top:114pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67592">
+  <v:shape id="_x0000_s67592" type="#_x0000_t75" style='position:absolute;
+   left:8in;top:114pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67593">
+  <v:shape id="_x0000_s67593" type="#_x0000_t75" style='position:absolute;
+   left:495.375pt;top:192pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67594">
+  <v:shape id="_x0000_s67594" type="#_x0000_t75" style='position:absolute;
+   left:573.375pt;top:192pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67595">
+  <v:shape id="_x0000_s67595" type="#_x0000_t75" style='position:absolute;
+   left:348pt;top:114pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67596">
+  <v:shape id="_x0000_s67596" type="#_x0000_t75" style='position:absolute;
+   left:423.375pt;top:114pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67597">
+  <v:shape id="_x0000_s67597" type="#_x0000_t75" style='position:absolute;
+   left:345.375pt;top:192pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67598">
+  <v:shape id="_x0000_s67598" type="#_x0000_t75" style='position:absolute;
+   left:420pt;top:192pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67599">
+  <v:shape id="_x0000_s67599" type="#_x0000_t75" style='position:absolute;
+   left:237.375pt;top:312pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67600">
+  <v:shape id="_x0000_s67600" type="#_x0000_t75" style='position:absolute;
+   left:237.375pt;top:354pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67601">
+  <v:shape id="_x0000_s67601" type="#_x0000_t75" style='position:absolute;
+   left:237.375pt;top:186pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67602">
+  <v:shape id="_x0000_s67602" type="#_x0000_t75" style='position:absolute;
+   left:237.375pt;top:228pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67603">
+  <v:shape id="_x0000_s67603" type="#_x0000_t75" style='position:absolute;
+   left:237.375pt;top:270pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67604">
+  <v:shape id="_x0000_s67604" type="#_x0000_t75" style='position:absolute;
+   left:162pt;top:312pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67605">
+  <v:shape id="_x0000_s67605" type="#_x0000_t75" style='position:absolute;
+   left:200.625pt;top:312pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67606">
+  <v:shape id="_x0000_s67606" type="#_x0000_t75" style='position:absolute;
+   left:162pt;top:354pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67607">
+  <v:shape id="_x0000_s67607" type="#_x0000_t75" style='position:absolute;
+   left:200.625pt;top:354pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67608">
+  <v:shape id="_x0000_s67608" type="#_x0000_t75" style='position:absolute;
+   left:162pt;top:186pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67609">
+  <v:shape id="_x0000_s67609" type="#_x0000_t75" style='position:absolute;
+   left:200.625pt;top:186pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67610">
+  <v:shape id="_x0000_s67610" type="#_x0000_t75" style='position:absolute;
+   left:162pt;top:228pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67611">
+  <v:shape id="_x0000_s67611" type="#_x0000_t75" style='position:absolute;
+   left:200.625pt;top:228pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67612">
+  <v:shape id="_x0000_s67612" type="#_x0000_t75" style='position:absolute;
+   left:162pt;top:270pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67613">
+  <v:shape id="_x0000_s67613" type="#_x0000_t75" style='position:absolute;
+   left:200.625pt;top:270pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67614">
+  <v:shape id="_x0000_s67614" type="#_x0000_t75" style='position:absolute;
+   left:84.75pt;top:312pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67615">
+  <v:shape id="_x0000_s67615" type="#_x0000_t75" style='position:absolute;
+   left:123.375pt;top:312pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67616">
+  <v:shape id="_x0000_s67616" type="#_x0000_t75" style='position:absolute;
+   left:84.75pt;top:354pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67617">
+  <v:shape id="_x0000_s67617" type="#_x0000_t75" style='position:absolute;
+   left:123.375pt;top:354pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67618">
+  <v:shape id="_x0000_s67618" type="#_x0000_t75" style='position:absolute;
+   left:84.75pt;top:186pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67619">
+  <v:shape id="_x0000_s67619" type="#_x0000_t75" style='position:absolute;
+   left:123.375pt;top:186pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67620">
+  <v:shape id="_x0000_s67620" type="#_x0000_t75" style='position:absolute;
+   left:84.75pt;top:228pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67621">
+  <v:shape id="_x0000_s67621" type="#_x0000_t75" style='position:absolute;
+   left:123.375pt;top:228pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67622">
+  <v:shape id="_x0000_s67622" type="#_x0000_t75" style='position:absolute;
+   left:84.75pt;top:270pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67623">
+  <v:shape id="_x0000_s67623" type="#_x0000_t75" style='position:absolute;
+   left:123.375pt;top:270pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67628">
+  <v:shape id="_x0000_s67628" type="#_x0000_t75" style='position:absolute;
+   left:9in;top:270pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67629">
+  <v:shape id="_x0000_s67629" type="#_x0000_t75" style='position:absolute;
+   left:650.625pt;top:348pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67630">
+  <v:shape id="_x0000_s67630" type="#_x0000_t75" style='position:absolute;
+   left:494.625pt;top:270pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67631">
+  <v:shape id="_x0000_s67631" type="#_x0000_t75" style='position:absolute;
+   left:572.625pt;top:270pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67632">
+  <v:shape id="_x0000_s67632" type="#_x0000_t75" style='position:absolute;
+   left:492pt;top:348pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67633">
+  <v:shape id="_x0000_s67633" type="#_x0000_t75" style='position:absolute;
+   left:570pt;top:348pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67634">
+  <v:shape id="_x0000_s67634" type="#_x0000_t75" style='position:absolute;
+   left:344.625pt;top:270pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67635">
+  <v:shape id="_x0000_s67635" type="#_x0000_t75" style='position:absolute;
+   left:420pt;top:270pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67636">
+  <v:shape id="_x0000_s67636" type="#_x0000_t75" style='position:absolute;
+   left:342pt;top:348pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67637">
+  <v:shape id="_x0000_s67637" type="#_x0000_t75" style='position:absolute;
+   left:416.625pt;top:348pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67638">
+  <v:shape id="_x0000_s67638" type="#_x0000_t75" style='position:absolute;
+   left:651.375pt;top:426pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67639">
+  <v:shape id="_x0000_s67639" type="#_x0000_t75" style='position:absolute;
+   left:492.75pt;top:426pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67640">
+  <v:shape id="_x0000_s67640" type="#_x0000_t75" style='position:absolute;
+   left:570.75pt;top:426pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67641">
+  <v:shape id="_x0000_s67641" type="#_x0000_t75" style='position:absolute;
+   left:342.75pt;top:426pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+ <p:shaperange id="_x0000_s67642">
+  <v:shape id="_x0000_s67642" type="#_x0000_t75" style='position:absolute;
+   left:417.375pt;top:426pt;width:26.625pt;height:30pt'>
+   <v:imagedata src="slide0056_image327.png" o:title="" croptop="16244f"
+    cropbottom="8962f" cropleft="21497f" cropright="15376f"/>
+  </v:shape></p:shaperange>
+</xml>

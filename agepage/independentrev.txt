@@ -1,0 +1,22 @@
+The Age of Everything by Matthew Hedman
+Some hot dates with an ageing cosmos
+
+Reviewed by John Gribbin
+Friday, 1 February 2008
+
+http://www.independent.co.uk/arts-entertainment/books/reviews/the-age-of-everything-by-matthew-hedman-776582.html?r=RSS
+
+It isn't always a good idea for cobblers to stick to their lasts. Matthew Hedman is an astronomer based at Cornell University, and his book is based on lectures he gave at the University of Chicago. It gives a good insight into how scientists date archaeological remains, calibrate the timescale of evolution, work out the ages of stars, and (the big one) determine the age of the universe. But Hedman is much more enthusiastic and accessible when telling us about the Mayan calendar or carbon-14 dating than when on his home turf, writing about stars and the universe.
+
+Perhaps he is too enthusiastic in the early stages. Three chapters on various aspects of carbon-14 dating is surely overkill, and seems to be aimed as much as anything at putting in his place a professor who failed to give Hedman additional credit for his extended answer to a question on radiocarbon dating in a student exam. But just when you might be inclined to cry "enough!" and hurl the book down, there is a gem of a chapter on how the timescale of human evolution has been calibrated.
+
+This provides the best and most accessible explanation for the lay person of the "molecular clock" technique that I have ever seen Ð including the ones in my own books. In essence, this technique measures the percentage difference between the DNA of two species, then, using a calibration based on dating of fossils by other techniques, determines how long it is since the two species shared a common ancestor. Humans and chimps differ by just 1.24 per cent in their DNA; chimps and gorillas by 1.63 per cent. So chimps are more closely related to us than they are to gorillas. Translating this into a timescale, the last common ancestor of humans and chimps walked in Africa roughly 6.5 million years ago, and the last common ancestor of humans, chimps and gorillas was around a couple of million years before that.
+
+Hedman also explains how similar techniques are used to date the emergence of various kinds of mammals, and in the process offers a neat explanation of the methods of Bayesian statistics. But from then on, it's downhill all the way.
+
+Once he strides off into the universe at large, Hedman gets bogged down in detail and fails to make the kind of simplification which works so well in the central chapters. He is too close to his subject to appreciate the needs of the general reader. Where there are simplifications, they don't always work Ð his description of starbirth, for example, is just plain wrong. Worse, he misses a trick by failing to emphasise one of the most remarkable aspects of the whole scientific endeavour, the agreement between the ages of stars and the age of the universe.
+
+The ages of stars are determined from observations and an understanding of nuclear (quantum) physics, since it is nuclear reactions that keep stars going. The oldest stars are about 13 billion years old. The age of the universe is determined from observations and the general theory of relativity. The age of the universe is 13.7 billion years. One number depends on our understanding of the very small Ð atomic nuclei. The other depends on our understanding of the very large Ð the universe. Yet they agree! This is the best evidence that the whole scientific endeavour is on the right track, and it should be shouted from the rooftops.
+
+John Gribbin's 'The Universe: a biography' is published by Penguin
+University of Chicago Press, £14 (264pp) £13 (free p&p) from 0870 079 8897
